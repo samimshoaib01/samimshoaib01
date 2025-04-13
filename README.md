@@ -41,7 +41,7 @@ MySQL, MongoDB
 
 ### 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-link)  
+- [LinkedIn](https://www.linkedin.com/in/shoaib-samim-805123263/)  
 - [Twitter](https://twitter.com/your-handle)  
 - 📫 Email: samim.shoaib01@gmail.com  
 
