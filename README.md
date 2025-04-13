@@ -1,57 +1,51 @@
-## 👋 Hi, I'm Samim Shoaib
-
-I'm a second-year Computer Engineering student with a strong interest in systems programming, compilers, open-source development, and Android applications. I enjoy diving deep into low-level concepts and contributing to projects that improve developer and user experiences.
-
----
-
-### 🔧 Current Involvements
-- **Outreachy Intern (June 2025 Cohort)**  
-  Contributing to [Mozilla's Firefox Translations](https://github.com/mozilla/firefox-translations-models), focusing on language model optimization and structured data handling.
-
-- **Open Source Contributor**  
-  Working on issues related to:
-  - `remote_settings` module in Firefox
-  - Systemd unit failure reporting for NixOS
-  - Fortran compiler development with [LFortran](https://github.com/lfortran/lfortran)
+## Hi there, I'm Samim Shoaib! 👋  
+Welcome to my GitHub profile! I'm an aspiring systems and open-source developer passionate about learning how things work under the hood. Here's a bit about me and what I do:
 
 ---
 
-### 🚀 Interests & Focus Areas
-- **Compilers & Programming Languages**  
-  Actively learning Swift macros and Fortran semantics for GSoC 2025 proposals.
+### 🔍 About Me
+🌱 I’m currently learning:
+- Compiler development (Swift Macros, LFortran)
+- System-level programming (Linux, system calls, interrupts)
+- Computational geometry with CGAL
+- Android development (Kotlin)
 
-- **High-Performance & Scientific Computing**  
-  Exploring the CGAL library with an emphasis on mesh remeshing and geometry processing.
+👯 I’m looking to collaborate on:
+- Open-source compiler/toolchain projects  
+- Android applications using Kotlin  
+- Linux or systems programming tools  
 
-- **Operating Systems & Systems Programming**  
-  Understanding kernel-level operations, system calls, file handling, and Linux internals.
-
-- **Mobile Development**  
-  Developing native Android applications using Kotlin.
-
----
-
-### 🧠 Currently Learning
-- Intermediate C++ for systems and scientific applications  
-- MPI for parallel and distributed computing  
-- OpenCV for real-time computer vision projects  
-- Test-driven development in Python and JavaScript  
-- Advanced Git for collaborative workflows
+💬 Ask me about:
+- C++, Java, Python  
+- Git & GitHub workflows  
+- Writing tests in Python and JavaScript  
+- Competitive programming and problem-solving strategies
 
 ---
 
-### 💻 Personal Projects
-- Built a 2D game using **Phaser.js**  
-- Developed a **Rubik's Cube solver** using algorithmic logic  
-- Practicing **competitive programming** on Codeforces (goal: Expert by June 2025)
+### 🛠 Skills
+
+**Languages:**  
+C++, Java, Python, JavaScript, TypeScript, Kotlin, HTML, SQL
+
+**Frameworks & Libraries:**  
+Phaser.js, OpenCV, Express.js, Bootstrap
+
+**Tools & Platforms:**  
+Git, GitHub, VS Code, Android Studio, IntelliJ IDEA, Postman, Linux
+
+**Databases:**  
+MySQL, MongoDB
 
 ---
 
-### 📫 Contact
-- 📧 Email: `samim.shoaib01@gmail.com`
-- 🔗 GitHub: [@samimshoaib01](https://github.com/samimshoaib01)
+### 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/your-link)  
+- [Twitter](https://twitter.com/your-handle)  
+- 📫 Email: samim.shoaib01@gmail.com  
 
 ---
 
-> “I'm not afraid to learn new things from scratch — in fact, I choose projects that challenge me to do just that.”
-
+Thanks for visiting my profile!  
+Feel free to reach out if you'd like to collaborate or just connect 🚀
